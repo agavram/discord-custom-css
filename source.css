@@ -1806,8 +1806,8 @@ body,
 
 .role-2irmRk .roleCircle-3xAZ1j:not(:empty):after {
   position: absolute;
-  content: "Remove role";
-  width: 67px;
+  content: "Remove Role";
+  width: 73px;
   height: auto;
   top: 0;
   left: 0;
@@ -1855,8 +1855,8 @@ body,
 
 .role-2irmRk.addButton-pcyyf6:after {
   position: absolute;
-  content: "Add role";
-  width: 45px;
+  content: "Add Role";
+  width: 50px;
   height: auto;
   top: 0;
   left: 0;
