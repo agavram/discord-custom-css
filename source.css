@@ -39,13 +39,13 @@
   --sidebar-panel-color: #111114;
   --chat-color: #16171A;
   --message-color: #202225;
-  --message-color-alt: #1c1e21;
+  --message-color-alt: #16171A;
   --attachment-color: rgb(0, 0, 0, 0.325);
   --main-textarea-color: #202225;
   --main-textarea-color-alt: #3b3f42;
   --main-textarea-border: #3e434a;
   --typing-color: rgba(32, 34, 37, 0.9);
-  --popout-color: #2c2f33;
+  --popout-color: #202225;
   --popout-color-alt: #16171A;
   --popout-header-border: #444;
   --separator-color: #444;
@@ -2001,7 +2001,7 @@ body,
 }
 
 .wrapper-2a6GCs.cozy-3raOZG {
-  padding: 8px 12px !important;
+  padding: 12px 12px !important;
 }
 
 .wrapper-2a6GCs.cozy-3raOZG.groupStart-23k01U {
