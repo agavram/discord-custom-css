@@ -1,6 +1,6 @@
 :root {
   --app-bg: var(--main-alt);
-  --accent-color: #3f51b5;
+  --accent-color: #7289DA;
   --accent-rgb: 63, 81, 181;
   --accent-button-action: #fff;
   --accent-button-action-hover: 0.06;
@@ -7239,7 +7239,6 @@ body:active .menu-3sdvDG#guild-header-popout:not(:active) {
 
 .root-1gCeng .footer-2gL1pp,
 .modal-yWgWj- .footer-2gL1pp {
-  padding: 8px;
   background-color: transparent !important;
   border-radius: 0 0 var(--popout-radius-big) var(--popout-radius-big);
   border-top: 1px solid var(--popout-header-border);
