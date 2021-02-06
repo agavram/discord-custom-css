@@ -8203,6 +8203,7 @@ div[role="radiogroup"] .tooltipWrapper-3VcaN6:last-child {
 .button-38aScr.lookInverted-2D7oAl.colorGrey-2DXtkV,
 .button-38aScr.lookInverted-2D7oAl.colorWhite-rEQuAQ,
 .button-38aScr.lookInverted-2D7oAl.colorGreen-29iAKY {
+  width: auto;
   background-color: var(--accent-color);
   color: var(--accent-text-color);
 }
